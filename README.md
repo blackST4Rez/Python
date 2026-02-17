@@ -1,7 +1,6 @@
 <div align="center">
 
 # <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> 
-Python Mastery Course
 
 **Python RECAP**
 
@@ -76,7 +75,7 @@ Please make sure your code follows the existing style and includes appropriate c
 
 <div align="center">
 
-Made with ❤️ by blackST4Rez and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="18" height="18"/> Python
+Made with ❤️ by blackST4Rez
 
 ⭐ **Star this repo** if you find it helpful!
 
