@@ -1,11 +1,11 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> Python Mastery Course 🐍
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> 
+Python Mastery Course
 
-**A comprehensive, beginner Python programming course**
+**Python RECAP**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
 
@@ -71,12 +71,6 @@ Contributions are welcome and appreciated! 🙌
 5. **Open** a Pull Request
 
 Please make sure your code follows the existing style and includes appropriate comments.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
