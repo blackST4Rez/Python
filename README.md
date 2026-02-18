@@ -14,7 +14,6 @@
 
 ## 🗂️ Table of Contents
 
-- [📌 Prerequisites](#-prerequisites)
 - [🚀 Getting Started](#-getting-started)
 - [📚 Course Modules](#-course-modules)
   - [01 — Basics](#01--python-basics)
@@ -35,7 +34,6 @@
   - [16 — Object-Oriented Programming (OOP)](#10--object-oriented-programming-oop)
 - [📁 Project Structure](#-project-structure)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ---
 
