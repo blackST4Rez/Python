@@ -1,7 +1,8 @@
 # Dictionaries
 band = {
     "vocals": "Plant",
-    "guitar": "Page"
+    "guitar": "Page",
+    "band": "Led Zeppelin"
 }
 
 band2 = dict(vocals="Plant", guitar="Page")
